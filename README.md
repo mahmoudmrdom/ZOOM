@@ -7,3 +7,4 @@ Onlayni
     "iconName": "acr",
     "categories": null
 }
+https://<github>.com/<alibaba>/<druid.git>'"
