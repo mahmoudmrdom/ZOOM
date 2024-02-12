@@ -2,6 +2,6 @@
     "name": "Deploy to Alibaba Cloud ACK",
     "description": "Deploy a container to Alibaba Cloud Container Service for Kubernetes (ACK).",
     "creator": "Alibaba Cloud",
-    "iconName": "https://wix.to/8DNjezP?ref=cl/",
-    "categories": null","
+    "iconName": "https://wix.to/8DNjezP?ref=cl",
+    "categories": "https://editor.wix.com/html/editor/web/renderer/external_preview/document/85109105-b43d-41f1-a47c-ad6d1ebb9b71?metaSiteId=e992ce57-e5a5-45f2-96d0-7d61cf0c7dd5&dsOrigin=externalPreview&configName=externalPreview
 }
