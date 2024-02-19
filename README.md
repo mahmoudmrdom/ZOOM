@@ -5,5 +5,5 @@ Onlayni
     "description": "Deploy a container to Alibaba Cloud Container Service for Kubernetes (ACK).",
     "creator": "Alibaba Cloud",
     "iconName": "acr",
-    "categories": null
+    "categories": null",
 }
